@@ -1,5 +1,7 @@
-Cloud Server Link: http://18.188.240.145:4000/
-## Available Scripts (Local Development Environment)
+
+## React Messenger Application
+
+This application was created as part of CSC 667 at SFSU. It is a simple messaging application created in React that allows users to communicate in private and group conversations. It was developed as a group project and the collaborators are listed on the repository.
 
 Before you are ready to run this application, please open MongoDB and Redis in local environment. 
 
